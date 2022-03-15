@@ -1,0 +1,20 @@
+1,ÁGUILAS DORADAS FUTBOL CLUB,Colombia,2008,Francesco Stifano
+2,ALIANZA PETROLERA,Colombia,0,Hubert Bodhert
+3,AMÉRICA DE CALI,Colombia,1927,Juan Carlos Osorio
+4,ATLÉTICO BUCARAMANGA,Colombia,1949,Sergio Iván Novoa
+5,ATLÉTICO HUILA,Colombia,1990,Alberto Rujana
+6,ATLÉTICO JUNIOR,Colombia,1924,Arturo Reyes
+7,ATLÉTICO NACIONAL,Colombia,1947,Alejandro Restrepo
+8,DEPORTES QUINDÍO,Colombia,1951,Oscar Quintabani
+9,DEPORTES TOLIMA,Colombia,1958,Hernán Torres 
+10,DEPORTIVO CALI,Colombia,0,Rafael Dudamel
+11,DEPORTIVO PASTO,Colombia,1949,Flavio Torres
+12,DEPORTIVO PEREIRA,Colombia,1944,José Alexis Márquez
+13,ENVIGADO F.C.,Colombia,1989,José Alberto Suárez
+14,INDEPENDIENTE MEDELLÍN,Colombia,1913,Julio Comesana
+15,INDEPENDIENTE SANTA FE,Colombia,1941,Grigori Méndez
+16,JAGUARES DE CÓRDOBA,Colombia,2012,Cesar Torres
+17,LA EQUIDAD,Colombia,1982,Alexis García
+18,MILLONARIOS,Colombia,1946,Alberto Gamero
+19,ONCE CALDAS,Colombia,1947,Diego Andrés Corredor
+20,PATRIOTAS BOYACÁ F.C.,Colombia,2003,Juan David Nino
